@@ -1,0 +1,20 @@
+body{
+    background-image: url(../images/bigben.jpg);
+    background-size: cover;
+    margin: 0;
+    overflow: hidden;
+    background-position: center;
+}
+#clock-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    height: 100vh;
+}
+#clock{
+    font-family: monospace;
+    font-size: 5.5rem;
+    font-weight: bold;
+    text-align: center;
+    
+}

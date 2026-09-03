@@ -115,6 +115,7 @@ span{
     border: 2px solid black;
     border-radius: 8px;
     letter-spacing: 1px;
+    font-size: 18px;
     font-weight: 600;
     transition: 0.3s ease;
     cursor: pointer;
